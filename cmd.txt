@@ -1,0 +1,3 @@
+ctrl + b + ' 竖向切屏
+ctrl + b + % 横向
+ctrl + b + M 鼠标
